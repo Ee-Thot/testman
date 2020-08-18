@@ -1,0 +1,99 @@
+body
+h2{ font-family: 'Press Start 2P', cursive;}
+h3{ font-family: 'Press Start 2P', cursive;}
+p{ font-family:Georgia, 'Times New Roman', Times, serif}
+body
+{background-image: url(https://cdn.dribbble.com/users/673549/screenshots/3159371/videogamecontroller_background.jpg); 
+background-size: cover;
+}
+body
+Micon{
+  display: block;
+max-width: 100%;
+margin: auto;
+}
+h3{
+  margin-top: 60mm;
+   max-width:100%;
+   text-align: center;
+   height:auto;
+   }
+p{margin:45px;
+border-top: 10px ridge whitesmoke;
+border-bottom: 10px ridge whitesmoke;
+border-width:10px;
+border-radius:10px;
+display: block;
+text-align:center;
+
+}
+body
+h2{font-size: 30mm}
+h3{font-size: 20mm}
+p{font-size: 7.5mm}
+{background-size: cover;} 
+h2
+{
+  margin: 1cm;
+  max-width: 100%;
+  height:auto;
+  padding-top: 7cm;
+  display: block;
+  text-align:center;
+  margin: auto;
+}
+nav {
+padding-top:1cm;
+padding-bottom: 1cm;
+text-align:center;
+margin:auto ;
+max-width: 100%;
+font-family:'Press Start 2P', cursive;
+font-size: 5mm;
+background-image: linear-gradient(gold,#ffbf00);
+border-top: 10px ridge whitesmoke;
+border-bottom: 10px ridge whitesmoke;
+border-width:10px;
+border-radius:10px;
+
+
+}
+.Minecraft{
+  display: inline;
+  padding-right: 20mm;
+  hover: underline #166420;
+}
+.Minecraft:hover{
+  color:#166420;
+  text-decoration: underline;
+}
+.Halo{
+  display: inline;
+  padding-right: 20mm;
+}
+.Halo:hover{
+  color:#166420;
+  text-decoration: underline;
+}
+.Assn{
+  display: inline;
+  padding-right: 20mm;
+}
+.Assn:hover{
+  color:#166420;
+  text-decoration: underline;
+}
+.Evil{
+  display: inline;
+  padding-right: 20mm;
+}
+.Evil:hover{
+color:#166420;
+text-decoration: underline;
+}
+
+    h1{color:black;}
+  h2{color:#ffbf00}
+    h3{color:#ffbf00}
+    p{color:#ffbf00}
+    nav{color:#ffbf00}
